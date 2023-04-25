@@ -258,7 +258,7 @@ footer p a{
     }
     
     #weights, #cardio, #training{
-        width: 29;
+        width: 29%;
         float: left;
         margin: 0 2%;
     }
